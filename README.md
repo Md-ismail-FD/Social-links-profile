@@ -1,8 +1,11 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+Screenshort
+![hover](https://github.com/user-attachments/assets/74ae08d3-7ff9-4dd7-a1c0-a49257747db8)
+![social](https://github.com/user-attachments/assets/db44481b-0a2c-47fa-ad83-c85a7d0ce6fd)
 
 ## Welcome! 👋
+![destkop-design](https://github.com/user-attachments/assets/3d75a921-a680-48d2-a674-63cd4e5575e7)
 
 Thanks for checking out this front-end coding challenge.
 
